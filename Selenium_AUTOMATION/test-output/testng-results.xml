@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-15T23:41:22 IST" name="Default suite" finished-at="2024-01-15T23:41:36 IST" duration-ms="13661">
+    <groups>
+    </groups>
+    <test started-at="2024-01-15T23:41:22 IST" name="Default test" finished-at="2024-01-15T23:41:36 IST" duration-ms="13661">
+      <class name="package1.ChromeTestWithWebDriverManager">
+        <test-method is-config="true" signature="setup()[pri:0, instance:package1.ChromeTestWithWebDriverManager@61d6015a]" started-at="2024-01-15T23:41:22 IST" name="setup" finished-at="2024-01-15T23:41:28 IST" duration-ms="6047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkTheUrl()[pri:0, instance:package1.ChromeTestWithWebDriverManager@61d6015a]" started-at="2024-01-15T23:41:29 IST" name="checkTheUrl" finished-at="2024-01-15T23:41:32 IST" duration-ms="3632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheUrl -->
+        <test-method signature="checkTheUrl2()[pri:0, instance:package1.ChromeTestWithWebDriverManager@61d6015a]" started-at="2024-01-15T23:41:32 IST" name="checkTheUrl2" finished-at="2024-01-15T23:41:34 IST" duration-ms="1349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheUrl2 -->
+        <test-method signature="checkTheUrl3()[pri:0, instance:package1.ChromeTestWithWebDriverManager@61d6015a]" started-at="2024-01-15T23:41:34 IST" name="checkTheUrl3" finished-at="2024-01-15T23:41:35 IST" duration-ms="1821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheUrl3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:package1.ChromeTestWithWebDriverManager@61d6015a]" started-at="2024-01-15T23:41:35 IST" name="teardown" finished-at="2024-01-15T23:41:36 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- package1.ChromeTestWithWebDriverManager -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
